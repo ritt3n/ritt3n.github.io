@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ritt3n Manuscript</title>
+    <link>https://ritt3n.github.io/</link>
+    <description>Recent content on Ritt3n Manuscript</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://ritt3n.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

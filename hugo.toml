@@ -1,0 +1,5 @@
+baseURL = 'https://ritt3n.github.io/'
+languageCode = 'en-us'
+title = 'Ritt3n Manuscript'
+theme = 'archie'
+
